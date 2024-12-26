@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a love
 
 - 🎓 **Education**: Bachelor's Degree in Computer Systems Engineering, Fayoum University (Graduation: 2024)
 - 💻 **Interests**: Full-Stack Development, Artificial Intelligence, and Frontend Engineering.
-- 🌱 **Currently Learning**: TypeScript, Web3 technologies, and Advanced Backend Development.
+- 🌱 **Currently Learning**: Spring Boot and Angular.
 - 📫 **Get in Touch**: Connect with me on [LinkedIn](https://linkedin.com/in/mariam-mohammed-45bb47234) or email me at mariam.mohammed1341@gmail.com.
 
 ---
